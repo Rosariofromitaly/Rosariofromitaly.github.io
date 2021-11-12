@@ -1,0 +1,2 @@
+const myHeading = document.querySelector('h1'); // querySelector() è una funzione che agisce sugli elementi del DOM, ha come argomento i selettori
+myHeading.textContent = 'Hello world!'; // textContent è una proprietà della variabile
